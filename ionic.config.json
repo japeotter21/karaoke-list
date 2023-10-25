@@ -1,0 +1,7 @@
+{
+  "name": "klister",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
