@@ -1,0 +1,14 @@
+.allContent {
+    padding: 1vh 2vw;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    
+}
+
+.list {
+    margin: 1vh 0;
+}
